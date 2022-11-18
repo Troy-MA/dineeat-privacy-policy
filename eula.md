@@ -1,40 +1,3 @@
-<style>
-  [data-custom-class='body'], [data-custom-class='body'] * {
-          background: transparent !important;
-        }
-[data-custom-class='title'], [data-custom-class='title'] * {
-          font-family: Arial !important;
-font-size: 26px !important;
-color: #000000 !important;
-        }
-[data-custom-class='subtitle'], [data-custom-class='subtitle'] * {
-          font-family: Arial !important;
-color: #595959 !important;
-font-size: 14px !important;
-        }
-[data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
-          font-family: Arial !important;
-font-size: 19px !important;
-color: #000000 !important;
-        }
-[data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
-          font-family: Arial !important;
-font-size: 17px !important;
-color: #000000 !important;
-        }
-[data-custom-class='body_text'], [data-custom-class='body_text'] * {
-          color: #595959 !important;
-font-size: 14px !important;
-font-family: Arial !important;
-        }
-[data-custom-class='link'], [data-custom-class='link'] * {
-          color: #3030F1 !important;
-font-size: 14px !important;
-font-family: Arial !important;
-word-break: break-word !important;
-        }
-</style>
-
       <div data-custom-class="body">
       <div align="center" style="text-align: left;"><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><div align="center" class="MsoNormal" style="text-align:center;line-height:150%;"><a name="_2cipo4yr3w5d"></a><div align="center" class="MsoNormal" style="line-height: 22.5px;"><div align="center" class="MsoNormal" style="line-height: 150%;"><a name="_gm5sejt4p02f"></a><div align="center" class="MsoNormal" data-custom-class="title" style="text-align: left; line-height: 1.5;"><strong><span style="line-height: 22.5px; font-size: 26px;">END USER LICENSE AGREEMENT</span></strong></div><div align="center" class="MsoNormal" style="line-height: 22.5px; text-align: left;"><a name="_7m5b3xg56u7y"></a></div></div></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><br></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><span style="font-size: 11pt; line-height: 16.8667px;"><strong><span data-custom-class="body_text"><span style="color: rgb(89, 89, 89);">Last updated</span> </span></strong><bdt class="question"><strong><span data-custom-class="body_text">April 05, 2022</span></strong></bdt></span></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><br></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><span style="font-size: 11pt; line-height: 16.8667px;"><br></span></div></div></div><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><br></div><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><div class="MsoNormal" data-custom-class="heading_1" style="line-height: 115%;"><a name="_a7mwfgcrtsqn"></a></div><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;
 Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
@@ -108,19 +71,5 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
 Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;font-family:Arial;
-Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-component"></bdt>16<bdt class="statement-end-if-in-editor"></bdt><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-container if" data-type="if" id="8d4c883b-bc2c-f0b4-da3e-6d0ee51aca13"><bdt data-type="conditional-block"><bdt data-type="body"><span style="color: rgb(89, 89, 89);">.2</span></bdt></bdt></bdt></span></span></span></span></span></span></span></span></span></span></span> </span> </span>Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing.<bdt class="block-component"></bdt></span></span></bdt></bdt></bdt></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div></bdt></bdt></bdt></div></div><style>
-      ul {
-        list-style-type: square;
-      }
-      ul > li > ul {
-        list-style-type: circle;
-      }
-      ul > li > ul > li > ul {
-        list-style-type: square;
-      }
-      ol li {
-        font-family: Arial ;
-      }
-    </style>
-      </div>
+Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-component"></bdt>16<bdt class="statement-end-if-in-editor"></bdt><span style="font-size: 11pt; line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="font-size: 15px;"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><span style="line-height: 16.8667px; color: rgb(89, 89, 89);"><bdt class="block-container if" data-type="if" id="8d4c883b-bc2c-f0b4-da3e-6d0ee51aca13"><bdt data-type="conditional-block"><bdt data-type="body"><span style="color: rgb(89, 89, 89);">.2</span></bdt></bdt></bdt></span></span></span></span></span></span></span></span></span></span></span> </span> </span>Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing.<bdt class="block-component"></bdt></span></span></bdt></bdt></bdt></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div></bdt></bdt></bdt></div></div>
      
